@@ -3,16 +3,13 @@
 # website settings
 website:
   title: "Vivek Atchutanna"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  description: "Passionate student and programmer"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
-    pinned: true
-    logo: /img/logo.png
-    
     # your sub-pages
     left:
       - text: "Projects"
