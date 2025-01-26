@@ -35,10 +35,10 @@ Please feel free to [contact me](mailto:mail.atchutannavivek@gmail.com) if you h
 ```{=html}
 <div  style="margin: 15px;">
 
-<h2> -> KL university - Hyderabad </h2>
+<h2>KL university - Hyderabad </h2>
 <p> I did my undergraduate in the field of artificial intelligence and datascience with a 8.4 gpa. I've started it in the year 2020 and completed in 2024. </p>
 
-<h2> -> George mason university - Fairfax </h2>
+<h2>George mason university - Fairfax </h2>
 <p>Currently, i'm pursuing masters in field of data analytical enigineering. I have started it in the year 2024. </p>
 
 <center>
