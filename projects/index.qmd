@@ -1,0 +1,49 @@
+---
+title: Projects
+---
+
+## Country flags using html and css : 
+
+<img src="project1.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://atchutannavivekkumar.github.io/Frontend-countryflagv1/', 'blank');"/>
+
+<a href="https://github.com/atchutannavivekkumar" target="_blank">Vivek atchutanna</a> | <a href="https://github.com/atchutannavivekkumar/Frontend-countryflagv1" target="_blank">Code</a><br>
+
+ I was doing course in udemy regarding full stack web developemt, then aspart of the course there was a assignment creating a country flag using css elements and it helps to understand how css helps to arrange the layouts. While doing project, i aim do the css layout arragemnt for flags of all world countries. It is a long project, which takes a lot of time. Their is  a continuous effort on it. I created a frontend website using HTML and CSS to design various country flags. Each flag follows a distinct pattern based on the country it represents. All parts of the flags are built using pure CSS without any images. Its is a long project which is need more modifcations in broswer size and correct them using media query.
+
+
+----
+
+## Drum Kit:
+
+<img src="project2.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://atchutannavivekkumarkoundinya.github.io/javascript-drumkit-2/', 'blank');"/>
+
+<a href="https://github.com/atchutannavivekkumar" target="_blank">Vivek atchutanna</a> | <a href="https://github.com/atchutannavivekkumarkoundinya/drum-kit-javascript" target="_blank">Code</a><br>
+
+I developed a dynamic and interactive drum kit website using front-end technologies, incorporating JavaScript and DOM manipulation to enhance user engagement. Each drum sound is precisely mapped to a specific keyboard key, enabling users to play sounds by either clicking on the drum elements displayed on the screen or pressing the corresponding keys on their keyboard. Additionally, I utilized HTML and CSS to design and structure the layout of the drum keys, ensuring an intuitive and visually appealing user interface. This project demonstrates my ability to combine coding logic with creative design to deliver an engaging user experience.
+
+
+----
+
+## DOM project:
+
+<img src="project3a.png" style="height: 50%; width: 30%" onclick="window.open('https://atchutannavivekkumarkoundinya.github.io/dom-animation/', 'blank');"/>
+
+
+<img src="project3b.png" style="height: 50%; width: 40%" onclick="window.open('https://atchutannavivekkumarkoundinya.github.io/dom-animation/', 'blank');"/>
+
+<a href="https://github.com/atchutannavivekkumar" target="_blank">Vivek atchutanna</a> | <a href="https://github.com/atchutannavivekkumarkoundinya/dom-animation" target="_blank">Code</a><br>
+
+The Document Object Model (DOM) in JavaScript is a programming interface for web documents.
+I created a website showcasing a DOM animation project where elements respond dynamically to user interactions, such as hovering or clicking. Using JavaScript and CSS, I implemented animations like transitions, color changes, and scaling effects to enhance interactivity and usability.This project demonstrates my skills in DOM manipulation, combining technical expertise with creative design to deliver a responsive and engaging user experience.
+
+
+## Construction website (Koundinyaconstruction.com):
+
+<img src="project4.png" style="height: 100%; width: 100%" onclick="window.open('https://www.koundinyaconstructions.com/', 'blank');"/>
+
+
+<a href="https://github.com/atchutannavivekkumar" target="_blank">Vivek atchutanna</a> | <a href="https://www.koundinyaconstructions.com/" target="_blank">View</a><br>
+
+A full working website was developed for Koundinya Constructions, incorporating both frontend and backend functionalities to create a seamless and interactive platform. The website effectively highlights the company’s profile, showcasing its projects, services, and achievements to provide visitors with a comprehensive understanding of the business.The frontend was designed with a user-friendly interface, ensuring ease of navigation and accessibility. A visually appealing layout was crafted to engage users while maintaining a professional look that reflects the brand's identity.This project demonstrates expertise in full-stack development by combining a well-structured backend with an aesthetically pleasing and functional frontend, ensuring the website serves as a reliable and informative platform for Koundinya Constructions.
+
+
