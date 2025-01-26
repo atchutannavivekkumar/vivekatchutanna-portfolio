@@ -265,7 +265,7 @@ body {
 <button>whatsapp </button>
 </a>
 <a href="mailto:mail.atchutannavivek@gmail.com" >
-<button>whatsapp </button>
+<button>Mail </button>
 </a>
 
 <br/>
